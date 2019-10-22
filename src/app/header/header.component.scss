@@ -1,0 +1,22 @@
+$dark-color: #141414;
+$red-color: #E50914;
+$white-color: #fff;
+
+.bg-dark{
+    background: $dark-color !important;
+}
+.nav-link {
+	font-size: 12px;
+}
+.navbar-brand {
+	color: $red-color !important;
+}
+.navbar-dark {
+	.navbar-nav {
+		.nav-link {
+			color: $white-color;
+			font-weight: bold;
+			cursor: pointer;
+		}
+	}
+}

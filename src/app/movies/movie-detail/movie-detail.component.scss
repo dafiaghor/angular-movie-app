@@ -1,0 +1,15 @@
+$white-color: #fff;
+$jumbotron-color: #1f1f1f;
+
+.jumbotron{
+    color: $white-color;
+    background-color: $jumbotron-color;
+    margin-top:1rem;
+}
+p{
+    margin-bottom:0px !important;
+}
+p.break, p.genres{
+    margin-bottom: 1rem !important; 
+}
+
