@@ -6,7 +6,7 @@ This App displays a list of movies; movies can be filter by Genre and user can s
 
 ## Set Up
 
-- git clone https://github.com/quincykwende/angular-movie-app.git
+- clone the repo
 - cd angular-movie-app #project directory
 - npm install
 - npm install ng2-completer --save-dev
